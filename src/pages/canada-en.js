@@ -1,9 +1,10 @@
 import * as React from "react"
 import Layout from "../components/Layout";
 
-const IndexPage = () => {
+export default () => {
   return (
   <Layout>
     Canada - English
   </Layout>
 )}
+
